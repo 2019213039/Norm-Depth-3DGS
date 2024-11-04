@@ -1,0 +1,4 @@
+# ninja log v5
+4	7843	7404318919463434	D:/PythonProject/3DGS/masked_gs/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/ext.obj	bba9913b1185e383
+6	8420	7404318924870130	D:/PythonProject/3DGS/masked_gs/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/simple_knn.obj	c62caa325df5ce34
+9	24823	7404319087885725	D:/PythonProject/3DGS/masked_gs/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/spatial.obj	9abd0b8e7e848270
