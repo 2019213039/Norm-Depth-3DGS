@@ -7,7 +7,7 @@ Ensure your system meets the following requirements before running the project:
 - Other necessary libraries
 - environment.yml
 
-## 2.Input Data File Format
+## **2. Input Data File Format**
 ```
 datafile-name/
                 |——depths
